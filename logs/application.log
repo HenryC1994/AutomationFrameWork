@@ -1,96 +1,18 @@
-17:39:55.681 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  /Users/henry_admin/IdeaProjects/AutomationFrameWork/TestNG.xml
-
-17:40:07.606 [TestNG-tests-1] FATAL testCases.TC_01_SubscribeTest - Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.cssSelector: #subscribebox' (tried for 8 second(s) with 500 milliseconds interval)
-17:40:07.607 [TestNG-tests-1] INFO  testCases.TC_01_SubscribeTest - Mac OS X
-17:40:07.615 [TestNG-tests-1] INFO  utilities.ExtentReportUtility - test class: ChromeDriver: chrome on mac (53e20cc9709ad7d1bbdf14d4889f4ff0)
-17:40:07.776 [TestNG-tests-1] INFO  testCases.TC_01_SubscribeTest - \screenshots\subscribe_20231021054007.png
-17:40:58.209 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  /Users/henry_admin/IdeaProjects/AutomationFrameWork/TestNG.xml
-
-17:41:10.369 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  /Users/henry_admin/IdeaProjects/AutomationFrameWork/TestNG.xml
-
-17:41:18.929 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  /Users/henry_admin/IdeaProjects/AutomationFrameWork/TestNG.xml
-
-17:41:32.238 [TestNG-tests-1] FATAL testCases.TC_01_SubscribeTest - Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.cssSelector: #subscribebox' (tried for 8 second(s) with 500 milliseconds interval)
-17:41:32.239 [TestNG-tests-1] INFO  testCases.TC_01_SubscribeTest - Mac OS X
-17:41:32.246 [TestNG-tests-1] INFO  utilities.ExtentReportUtility - test class: ChromeDriver: chrome on mac (379acaedd005af5fa9bb83412c515b9c)
-17:41:32.406 [TestNG-tests-1] INFO  testCases.TC_01_SubscribeTest - \screenshots\subscribe_20231021054132.png
-17:42:29.855 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  /Users/henry_admin/IdeaProjects/AutomationFrameWork/TestNG.xml
-
-17:42:40.522 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  /Users/henry_admin/IdeaProjects/AutomationFrameWork/TestNG.xml
-
-17:42:48.850 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  /Users/henry_admin/IdeaProjects/AutomationFrameWork/TestNG.xml
-
-17:42:55.246 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  /Users/henry_admin/IdeaProjects/AutomationFrameWork/TestNG.xml
-
-17:43:02.932 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  /Users/henry_admin/IdeaProjects/AutomationFrameWork/TestNG.xml
-
-17:43:25.298 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  /Users/henry_admin/IdeaProjects/AutomationFrameWork/TestNG.xml
-
-17:43:33.170 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  /Users/henry_admin/IdeaProjects/AutomationFrameWork/TestNG.xml
-
-17:43:45.548 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  /Users/henry_admin/IdeaProjects/AutomationFrameWork/TestNG.xml
-
-17:44:00.474 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  /Users/henry_admin/IdeaProjects/AutomationFrameWork/TestNG.xml
-
-17:44:26.224 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  /Users/henry_admin/IdeaProjects/AutomationFrameWork/TestNG.xml
-
-17:44:39.797 [TestNG-tests-1] FATAL testCases.TC_01_SubscribeTest - Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.cssSelector: #subscribebox' (tried for 8 second(s) with 500 milliseconds interval)
-17:44:39.798 [TestNG-tests-1] INFO  testCases.TC_01_SubscribeTest - Mac OS X
-17:44:39.805 [TestNG-tests-1] INFO  utilities.ExtentReportUtility - test class: ChromeDriver: chrome on mac (dc4b55a1d8cb36a78fe05e3bb5f8d57d)
-17:44:39.974 [TestNG-tests-1] INFO  testCases.TC_01_SubscribeTest - subscribe_20231021054439.png
-17:46:17.711 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  /Users/henry_admin/IdeaProjects/AutomationFrameWork/TestNG.xml
-
-17:46:30.279 [TestNG-tests-1] FATAL testCases.TC_01_SubscribeTest - Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.cssSelector: #subscribebox' (tried for 8 second(s) with 500 milliseconds interval)
-17:46:30.279 [TestNG-tests-1] INFO  testCases.TC_01_SubscribeTest - Mac OS X
-17:46:30.285 [TestNG-tests-1] INFO  utilities.ExtentReportUtility - test class: ChromeDriver: chrome on mac (f5fea583575ad8fdc69414e7d3f2311f)
-17:46:30.444 [TestNG-tests-1] INFO  testCases.TC_01_SubscribeTest - screenshots\subscribe_20231021054630.png
-17:47:29.034 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  /Users/henry_admin/IdeaProjects/AutomationFrameWork/TestNG.xml
-
-17:47:41.304 [TestNG-tests-1] FATAL testCases.TC_01_SubscribeTest - Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.cssSelector: #subscribebox' (tried for 8 second(s) with 500 milliseconds interval)
-17:47:41.304 [TestNG-tests-1] INFO  testCases.TC_01_SubscribeTest - Mac OS X
-17:47:41.310 [TestNG-tests-1] INFO  utilities.ExtentReportUtility - test class: ChromeDriver: chrome on mac (8a180cdf87c7621bd06949ff2ee5eb3e)
-17:47:41.468 [TestNG-tests-1] INFO  testCases.TC_01_SubscribeTest - screenshots/subscribe_20231021054741.png
-17:53:25.520 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  /Users/henry_admin/IdeaProjects/AutomationFrameWork/TestNG.xml
-
-17:53:40.180 [TestNG-tests-1] FATAL testCases.TC_01_SubscribeTest - Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.cssSelector: #subscribebox' (tried for 8 second(s) with 500 milliseconds interval)
-17:53:40.180 [TestNG-tests-1] INFO  testCases.TC_01_SubscribeTest - Mac OS X
-17:53:40.185 [TestNG-tests-1] INFO  utilities.ExtentReportUtility - test class: ChromeDriver: chrome on mac (c1895f323ceae260bfdbf8a3a5b712e8)
-17:53:40.406 [TestNG-tests-1] INFO  testCases.TC_01_SubscribeTest - screenshots/subscribe_20231021055340.png
-18:02:47.439 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  /Users/henry_admin/IdeaProjects/AutomationFrameWork/TestNG.xml
-
-18:02:59.580 [TestNG-tests-1] FATAL testCases.TC_01_SubscribeTest - Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.cssSelector: #subscribebox' (tried for 8 second(s) with 500 milliseconds interval)
-18:02:59.580 [TestNG-tests-1] INFO  testCases.TC_01_SubscribeTest - Mac OS X
-18:02:59.588 [TestNG-tests-1] INFO  utilities.ExtentReportUtility - test class: ChromeDriver: chrome on mac (fb9d1501fd8a2529d84ee1b67da3c5b0)
-18:02:59.748 [TestNG-tests-1] INFO  testCases.TC_01_SubscribeTest - screenshots/subscribe_20231021060259.png
-18:05:12.020 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  /Users/henry_admin/IdeaProjects/AutomationFrameWork/TestNG.xml
-
-18:05:24.592 [TestNG-tests-1] FATAL testCases.TC_01_SubscribeTest - Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.cssSelector: #subscribebox' (tried for 8 second(s) with 500 milliseconds interval)
-18:05:24.592 [TestNG-tests-1] INFO  testCases.TC_01_SubscribeTest - Mac OS X
-18:05:24.600 [TestNG-tests-1] INFO  utilities.ExtentReportUtility - test class: ChromeDriver: chrome on mac (fa3b83e7bab7bfb2aca61cfa54dd62e4)
-18:05:24.782 [TestNG-tests-1] INFO  testCases.TC_01_SubscribeTest - screenshots/subscribe_20231021060524.png
-18:13:26.378 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  /Users/henry_admin/IdeaProjects/AutomationFrameWork/TestNG.xml
-
-18:13:39.643 [TestNG-tests-1] FATAL testCases.TC_01_SubscribeTest - Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.cssSelector: #subscribebox' (tried for 8 second(s) with 500 milliseconds interval)
-18:13:39.643 [TestNG-tests-1] INFO  testCases.TC_01_SubscribeTest - Mac OS X
-18:13:39.650 [TestNG-tests-1] INFO  utilities.ExtentReportUtility - test class: ChromeDriver: chrome on mac (206ad51b3c1025fe9fc124df468e1b2c)
-18:13:40.121 [TestNG-tests-1] INFO  testCases.TC_01_SubscribeTest - screenshots/subscribe_20231021061339.png
+10:03:55.651 [TestNG-tests-1] FATAL testCases.TC_01_SubscribeTest - Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.cssSelector: #subscribebox' (tried for 8 second(s) with 500 milliseconds interval)
+10:03:55.653 [TestNG-tests-1] INFO  testCases.TC_01_SubscribeTest - Mac OS X
+10:03:55.663 [TestNG-tests-1] INFO  utilities.ExtentReportUtility - test class: ChromeDriver: chrome on mac (25d3403ed4d44b5f85483fc9607b2b46)
+10:03:55.831 [TestNG-tests-1] INFO  testCases.TC_01_SubscribeTest - screenshots/subscribe_20231024100355.png
+14:20:39.718 [TestNG-tests-1] FATAL testCases.TC_01_SubscribeTest - Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.cssSelector: #subscribebox' (tried for 8 second(s) with 500 milliseconds interval)
+14:20:39.720 [TestNG-tests-1] INFO  testCases.TC_01_SubscribeTest - Mac OS X
+14:20:39.731 [TestNG-tests-1] INFO  utilities.ExtentReportUtility - test class: ChromeDriver: chrome on mac (b498efb977b86ef1814675729051cb3b)
+14:20:39.910 [TestNG-tests-1] INFO  testCases.TC_01_SubscribeTest - screenshots/subscribe_20231025022039.png
+14:20:42.542 [TestNG-tests-1] INFO  utilities.ExtentReportUtility - test class: ChromeDriver: chrome on mac (44b940b0eb7bb955a8ea0fc4f663476f)
+14:22:51.092 [TestNG-tests-1] FATAL testCases.TC_01_SubscribeTest - Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.cssSelector: #subscribebox' (tried for 8 second(s) with 500 milliseconds interval)
+14:22:51.095 [TestNG-tests-1] INFO  testCases.TC_01_SubscribeTest - Mac OS X
+14:22:51.103 [TestNG-tests-1] INFO  utilities.ExtentReportUtility - test class: ChromeDriver: chrome on mac (57c946539959f58d30001aa190e583b7)
+14:22:51.259 [TestNG-tests-1] INFO  testCases.TC_01_SubscribeTest - screenshots/subscribe_20231025022251.png
+14:22:54.059 [TestNG-tests-1] INFO  utilities.ExtentReportUtility - test class: ChromeDriver: chrome on mac (af6be58f1d345062c1e689d99357e714)
+14:23:41.133 [TestNG-tests-1] FATAL testCases.TC_01_SubscribeTest - Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.cssSelector: #subscribebox' (tried for 8 second(s) with 500 milliseconds interval)
+14:23:41.135 [TestNG-tests-1] INFO  testCases.TC_01_SubscribeTest - Mac OS X
+14:23:41.144 [TestNG-tests-1] INFO  utilities.ExtentReportUtility - test class: ChromeDriver: chrome on mac (44846c00e9a5fbb1052d1ddc1b555780)
+14:23:41.298 [TestNG-tests-1] INFO  testCases.TC_01_SubscribeTest - screenshots/subscribe_20231025022341.png

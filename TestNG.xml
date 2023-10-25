@@ -10,7 +10,10 @@
 
         <classes>
             <class name="testCases.BaseTestClass" />
-            <class name="testCases.TC_01_SubscribeTest" />
+<!--            <class name="testCases.TC_01_SubscribeTest" />-->
+            <class name="testCases.TC_02_SearchPDFTest" />
+
+
         </classes>
     </test>
 

@@ -25,6 +25,10 @@ public class HomePage extends BasePage {
     WebElement searchInput;
 
 
+    @FindBy(xpath = "//form[@id='search-form']//button[@type='submit']//i[@class='fa fa-search search-button']")
+    WebElement searchButton;
+
+
     // Action Methods
     public HomePage clickSignIn() {
         wait.until(ExpectedConditions.visibilityOf(signInButton)).click();
@@ -32,8 +36,12 @@ public class HomePage extends BasePage {
     }
 
     public HomePage inputSearch(String inputSearchItem) {
-        wait.until(ExpectedConditions.visibilityOf(searchInput)).sendKeys("inputSearchItem");
+        wait.until(ExpectedConditions.visibilityOf(searchInput)).sendKeys(inputSearchItem);
         return this;
+    }
+
+    public void clickSearchButton() {
+        wait.until(ExpectedConditions.visibilityOf(searchButton)).click();
     }
 
 }

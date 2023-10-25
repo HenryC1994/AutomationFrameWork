@@ -22,7 +22,7 @@ public class TC_01_SubscribeTest extends BaseTestClass {
             homePage.inputSearch("security+").clickSignIn();
 
             SignInPage signInPage = new SignInPage(driver);
-            String email = "fuckerforlife";
+            String email = "popo@kokiol.com";
             signInPage.inputEmail(email).clickSubscribeButton();
             var status = signInPage.getSubscribeStatus();
 
