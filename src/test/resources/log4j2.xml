@@ -20,7 +20,7 @@
         </Root>
 
         <!-- File Logger -->
-        <Logger name="testCases.BaseTestClass" level="all" additivity="false">
+        <Logger name="testBase.BaseTestClass" level="all" additivity="false">
             <AppenderRef ref="FileAppender" />
         </Logger>
 

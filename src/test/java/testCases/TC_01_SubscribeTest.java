@@ -5,10 +5,11 @@ import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.TimeoutException;
 import org.testng.Assert;
-import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
 import pageObjects.HomePage;
 import pageObjects.SignInPage;
+import testBase.BaseTestClass;
+
 import java.util.ResourceBundle;
 
 public class TC_01_SubscribeTest extends BaseTestClass {

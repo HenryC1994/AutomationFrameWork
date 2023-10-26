@@ -9,7 +9,7 @@
         <parameter name="browser" value="chrome" />
 
         <classes>
-            <class name="testCases.BaseTestClass" />
+            <class name="testBase.BaseTestClass" />
 <!--            <class name="testCases.TC_01_SubscribeTest" />-->
             <class name="testCases.TC_02_SearchPDFTest" />
 
@@ -22,7 +22,7 @@
 <!--        <parameter name="browser" value="firefox" />-->
 
 <!--        <classes>-->
-<!--            <class name="testCases.BaseTestClass" />-->
+<!--            <class name="testBase.BaseTestClass" />-->
 <!--            <class name="testCases.TC_01_SubscribeTest" />-->
 <!--        </classes>-->
 <!--    </test>-->

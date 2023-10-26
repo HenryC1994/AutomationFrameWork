@@ -1,4 +1,4 @@
-package testCases;
+package testBase;
 
 import com.google.common.collect.ImmutableMap;
 import org.apache.commons.io.FileUtils;
@@ -33,11 +33,13 @@ public class BaseTestClass {
         if (browser.equals("chrome")) {
             chromeOptions = new ChromeOptions();
             chromeOptions.setExperimentalOption("excludeSwitches", new String[] {"enable-automation"});
+            chromeOptions.addArguments("--headless");
             driver = new ChromeDriver(chromeOptions);
         } else if (browser.equals("firefox")) {
             firefoxOptions = new FirefoxOptions();
             firefoxOptions.setCapability("moz:firefoxOptions",
                     ImmutableMap.of("marionette", false));
+            firefoxOptions.addArguments("--headless");
             driver = new FirefoxDriver(firefoxOptions);
         }
 

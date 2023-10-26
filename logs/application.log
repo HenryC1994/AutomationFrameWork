@@ -16,3 +16,6 @@
 14:23:41.135 [TestNG-tests-1] INFO  testCases.TC_01_SubscribeTest - Mac OS X
 14:23:41.144 [TestNG-tests-1] INFO  utilities.ExtentReportUtility - test class: ChromeDriver: chrome on mac (44846c00e9a5fbb1052d1ddc1b555780)
 14:23:41.298 [TestNG-tests-1] INFO  testCases.TC_01_SubscribeTest - screenshots/subscribe_20231025022341.png
+09:43:53.809 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/henry_admin/IdeaProjects/AutomationFrameWork/TestNG.xml
+
