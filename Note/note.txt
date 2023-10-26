@@ -7,6 +7,7 @@ git log - Shows a history of commits
 git pull - Fetches changes from a remote repository and merges them into the current branch
 git push - Pushes your local commits to a remote repository
 git branch - Lists all branches in the repository and marks the current branch
+git branch -d my_custom_branch  - delete a sub branch
 git checkout <branch> - Switches to a different branch
 git merge <branch> - Combines changes from one branch into the current branch
 git stash - Temporarily saves uncommitted changes, allowing you to switch branches
