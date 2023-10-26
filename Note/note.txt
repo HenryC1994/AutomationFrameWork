@@ -1,0 +1,27 @@
+git init - Initializes a new Git repository in the current directory
+git clone <repository_url> - Copies a Git repository from a remote source to your local machine
+git add <file> - Stages changes to be committed
+git commit -m "Message" - Records staged changes along with a commit message
+git status - Displays the status of your working directory and staged changes
+git log - Shows a history of commits
+git pull - Fetches changes from a remote repository and merges them into the current branch
+git push - Pushes your local commits to a remote repository
+git branch - Lists all branches in the repository and marks the current branch
+git checkout <branch> - Switches to a different branch
+git merge <branch> - Combines changes from one branch into the current branch
+git stash - Temporarily saves uncommitted changes, allowing you to switch branches
+git remote -v - Lists remote repositories associated with the project
+git fetch - Retrieves changes from a remote repository without merging
+git reset <file> - Un-stages changes for a file
+git diff - Shows differences between working directory and staged changes
+git rm <file> - Removes a file from both the working directory and Git's history
+git tag - Lists or creates tags for specific commits (e.g., releases)
+git rebase <branch> - Moves or combines a sequence of commits to a new base
+git fetch --prune - Removes remote branches that no longer exist in the remote repository
+git blame <file> - Shows who last modified each line in a file
+git remote add <name> <repository_url> - Adds a new remote repository to your project
+git push --tags - Pushes tags to a remote repository
+git cherry-pick <commit> - Applies a specific commit from one branch to another
+git grep "pattern" - Searches for text matches in the repository
+git clean -n - Shows which untracked files would be removed
+git archive --format=zip --output=filename.zip <commit> - Creates a ZIP archive of a specific commit
